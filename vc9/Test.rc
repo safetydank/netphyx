@@ -1,0 +1,7 @@
+#pragma once
+#include "..\Resources.h"
+
+RES_VERT
+RES_FRAG
+RES_TEXTURE_PNG
+RES_LAGUNA_PRESA_PNG
